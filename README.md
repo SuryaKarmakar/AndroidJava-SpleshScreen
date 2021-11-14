@@ -1,3 +1,3 @@
 ## Android Java Splesh Screen Exmple
 
-![splesh screen](./exampleImg/spleshScreen.gif)
+<img src="/exampleImg/spleshScreen.gif" width="400" height="800">
